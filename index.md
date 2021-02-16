@@ -6,7 +6,7 @@
 - [Sequenze](http://albertoferrari.github.io/oop-Python/lezioni/OOPPy04-Python_sequenze.pdf)
 - [Classi e Oggetti](http://albertoferrari.github.io/oop-Python/lezioni/OOPPy05-Python_oop.pdf)
 
-### esempi
+### esempi ed esercizi
 - [esempi in Python](https://github.com/albertoferrari/oop-Python/tree/gh-pages/esempi)
 
 ### materiale
