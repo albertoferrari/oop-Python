@@ -7,6 +7,7 @@
 - [Object Oriented Programming](http://albertoferrari.github.io/oop-Python/lezioni/OOPPy05-Python_oop.pdf)
 - [Dizionari](http://albertoferrari.github.io/oop-Python/lezioni/OOPPy06-Python_dizionari.pdf)
 - [Object Oriented Design](http://albertoferrari.github.io/oop-Python/lezioni/OOPPy07-OOD.pdf)
+- [Ereditarietà e Polimorfismo](http://albertoferrari.github.io/oop-Python/lezioni/OOPPy08-ereditarietà-polimorfismo.pdf)
 
 ### esempi ed esercizi
 - [esempi in Python](https://github.com/albertoferrari/oop-Python/tree/main/esempi)
